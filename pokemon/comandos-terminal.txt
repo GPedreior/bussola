@@ -1,0 +1,3 @@
+npm ini -y (cria o arquivo .json)
+npm install (cria o arquivo package-lock.json)
+node .\app.js (executa o código)
